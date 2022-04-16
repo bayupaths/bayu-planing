@@ -3,7 +3,9 @@ RENCANA KONTEN
 - javaScript
   * ES6
   * Framework JavaScript
-- Stuktur Data dasar
+   ^ Angular
+   ^ React
 - PHP Framework
+  ^ Laravel
 - Interview
 - Vlogs
